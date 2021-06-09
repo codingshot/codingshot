@@ -50,9 +50,13 @@ This repository was inspired from [Developer Portfolios](https://github.com/emma
 <a href="https://instagram.com/minorityprogrammers"><img src="https://img.shields.io/badge/-@minorityprogrammers__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** [Social](#social) | [Projects](#projects) | [Ideas](#ideas) 
 
 ---
 
-## A
+## Social
+
+## Projects
+
+## ideas
 
