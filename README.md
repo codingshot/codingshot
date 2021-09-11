@@ -4,8 +4,6 @@
  -->
 [![Codingshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingshot)](https://github.com/anuraghazra/github-readme-stats)
 
-This repository was inspired from [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) github repository.
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -50,13 +48,5 @@ This repository was inspired from [Developer Portfolios](https://github.com/emma
 <a href="https://instagram.com/minorityprogrammers"><img src="https://img.shields.io/badge/-@minorityprogrammers__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-**Jump to:** [Social](#social) | [Projects](#projects) | [Ideas](#ideas) 
 
----
-
-## Social
-
-## Projects
-
-## ideas
 
