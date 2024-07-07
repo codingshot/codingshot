@@ -1,5 +1,4 @@
-﻿# Build Minority Programmers w/ Us 🛠️🌈
- ## Passion for Building the Decentralized Web & Empowering Marginalized Communities through Software
+﻿# Build the open funding stack with us
 
 
 <!-- 
