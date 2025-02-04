@@ -42,13 +42,7 @@
 </a>
 </p> -->
 
-### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.minorityprogrammers.com"><img src="https://img.shields.io/badge/-minorityprogrammers.org-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/company/minorityprogrammers"><img src="https://img.shields.io/badge/-Minority%2Programmers%-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/minorityprogrammers"><img src="https://img.shields.io/badge/-@minorityprogrammers__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
 
 
 
